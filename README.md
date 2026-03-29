@@ -3,7 +3,6 @@
 
 I’m a passionate Computer Science student who enjoys building real-world applications and solving problems through code.  
 I focus on writing clean, efficient solutions and continuously improving my skills by working on practical projects.
-Do check out my portfolio huzifa-folio.netlify.app
 ---
 
 ## 🔭 Currently Working On  
