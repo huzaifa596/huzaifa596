@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CS student currently pursuing my bachelors in CS from FAST-NUCES
+I am a CS student currently pursuing my bachelors in CS from FAST-NUCES<br>
 🔭 I’m currently working on<br>Building full-stack applications and strengthening my problem-solving skills through data structures and algorithms. I enjoy working on projects that combine logic with real-world usability.<br>👯 I’m looking to collaborate on<br>Open-source projects, web applications, or anything related to software development where I can learn, contribute, and grow as a developer.<br>🤝 I’m looking for help with<br><br>Improving my backend development skills, system design understanding, and writing more efficient and scalable code.<br><br>🌱 I’m currently learning<br><br>Modern web development (Node.js, Express, React), along with deepening my understanding of core computer science concepts like OOP and algorithms.<br>💬 Ask me about<br>C++, object-oriented programming, basic web development,back-end-techonologies,database, and beginner-friendly project ideas.<br>⚡ Fun fact<br>I enjoy turning ideas into projects and learning new technologies by building things from scratch.
 
 
