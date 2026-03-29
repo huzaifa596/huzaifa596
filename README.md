@@ -1,6 +1,40 @@
-# 💫 About Me:
-I am a CS student currently pursuing my bachelors in CS from FAST-NUCES<br><br>
-🔭 I’m currently working on<br>Building full-stack applications and strengthening my problem-solving skills through data structures and algorithms. I enjoy working on projects that combine logic with real-world usability.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, web applications, or anything related to software development where I can learn, contribute, and grow as a developer.<br><br>🤝 I’m looking for help with<br>Improving my backend development skills, system design understanding, and writing more efficient and scalable code.<br><br>🌱 I’m currently learning<br>Modern web development (Node.js, Express, React), along with deepening my understanding of core computer science concepts like OOP and algorithms.<br><br>💬 Ask me about<br>C++, object-oriented programming, basic web development,back-end-techonologies,database, and beginner-friendly project ideas.<br><br>⚡ Fun fact<br>I enjoy turning ideas into projects and learning new technologies by building things from scratch.
+# 💫 About Me  
+🎓 **CS Student at FAST-NUCES (4th Semester)**  
+
+I’m a passionate Computer Science student who enjoys building real-world applications and solving problems through code.  
+I focus on writing clean, efficient solutions and continuously improving my skills by working on practical projects.
+
+---
+
+## 🔭 Currently Working On  
+Building full-stack applications and sharpening my problem-solving skills through Data Structures & Algorithms.
+
+## 👯 Looking to Collaborate On  
+Open-source projects, web applications, and meaningful software projects where I can contribute and grow as a developer.
+
+## 🤝 Looking for Help With  
+Backend development, system design, and building scalable, production-ready applications.
+
+## 🌱 Currently Learning  
+Node.js, Express, React, databases, and strengthening my understanding of OOP and core computer science concepts.
+
+## 💬 Ask Me About  
+C++, object-oriented programming, backend fundamentals, databases, and project development.
+
+## ⚡ Fun Fact  
+I learn best by building—if I don’t understand something, I turn it into a project until it makes sense.
+
+---
+
+## 💼 Looking to Hire Me?  
+🚀 I’m open to **internships, freelance opportunities, and collaborations**  
+
+💡 What I bring:  
+- Strong foundation in C++ and problem-solving  
+- Growing expertise in full-stack development  
+- Fast learner with the ability to adapt quickly  
+
+📬 **Let’s connect and build something impactful!**
 
 
 ## 🌐 Socials:
