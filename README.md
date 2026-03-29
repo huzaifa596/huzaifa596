@@ -1,8 +1,12 @@
-# 💫 About Me  
+# 💫 About Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-huzaifa--folio.netlify.app-blue?style=for-the-badge&logo=firefox)](https://huzaifa-folio.netlify.app)
+
 🎓 **CS Student at FAST-NUCES (4th Semester)**  
 
 I’m a passionate Computer Science student who enjoys building real-world applications and solving problems through code.  
 I focus on writing clean, efficient solutions and continuously improving my skills by working on practical projects.
+
 ---
 
 ## 🔭 Currently Working On  
