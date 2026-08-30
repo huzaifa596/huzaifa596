@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="512" viewBox="0 0 820 512" role="img" aria-label="Terminal window: huzaifa@fast-nuces">
+  <title>huzaifa@fast-nuces: ~/portfolio — zsh</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#0A0E14"/>
+    </linearGradient>
+  </defs>
+
+  <!-- window -->
+  <rect x="0.5" y="0.5" width="819" height="511" rx="12" fill="url(#bg)" stroke="#30363D" stroke-width="1"/>
+
+  <!-- title bar -->
+  <path d="M1.5 46 V13 A11.5 11.5 0 0 1 13 1.5 H807 A11.5 11.5 0 0 1 818.5 13 V46 Z" fill="#161B22"/>
+  <line x1="1.5" y1="46" x2="818.5" y2="46" stroke="#30363D" stroke-width="1"/>
+  <circle cx="26" cy="23.5" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="23.5" r="6" fill="#FFBD2E"/>
+  <circle cx="70" cy="23.5" r="6" fill="#27C93F"/>
+  <text x="410" y="28" text-anchor="middle" font-size="13" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">huzaifa@fast-nuces: ~/portfolio — zsh</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16">
+    <!-- $ whoami -->
+    <text x="30" y="84"><tspan fill="#7EE787">$</tspan><tspan fill="#E6EDF3" font-weight="bold"> whoami</tspan></text>
+    <text x="30" y="111" fill="#C9D1D9">huzaifa-naseer — CS undergrad @ FAST-NUCES (Lahore, Pakistan)</text>
+
+    <!-- $ cat stack.txt -->
+    <text x="30" y="165"><tspan fill="#7EE787">$</tspan><tspan fill="#E6EDF3" font-weight="bold"> cat stack.txt</tspan></text>
+    <text x="30" y="192" fill="#E3B341">languages</text>
+    <text x="122" y="192" fill="#C9D1D9">C++ · JavaScript · Python · SQL · 8088 Assembly</text>
+    <text x="30" y="219" fill="#E3B341">frontend</text>
+    <text x="122" y="219" fill="#C9D1D9">React · HTML5 · CSS3</text>
+    <text x="30" y="246" fill="#E3B341">backend</text>
+    <text x="122" y="246" fill="#C9D1D9">Node.js · Express.js · MongoDB · REST APIs</text>
+    <text x="30" y="273" fill="#E3B341">ml/ai</text>
+    <text x="122" y="273" fill="#C9D1D9">XGBoost · LightGBM · LSTM · MIMIC-IV</text>
+
+    <!-- $ ls ~/experience -->
+    <text x="30" y="327"><tspan fill="#7EE787">$</tspan><tspan fill="#E6EDF3" font-weight="bold"> ls ~/experience</tspan></text>
+    <text x="30" y="354" fill="#79C0FF">fast-nuces-research/   tenbit-solutions/   brainnet-telecom/</text>
+
+    <!-- status hireable -->
+    <text x="30" y="408"><tspan fill="#7EE787">$</tspan><tspan fill="#E6EDF3" font-weight="bold"> ./status --hireable</tspan></text>
+    <text x="30" y="435" fill="#E3B341">status</text>
+    <text x="122" y="435" fill="#3FB950" font-weight="bold">OPEN — internships · freelance · collabs</text>
+    <text x="30" y="462" fill="#E3B341">contact</text>
+    <text x="122" y="462" fill="#56D4DD">huzaifanaseer596@gmail.com</text>
+
+    <!-- prompt + blinking cursor -->
+    <text x="30" y="489" fill="#7EE787">$</text>
+    <rect x="44" y="475" width="10" height="18" fill="#7EE787">
+      <animate attributeName="opacity" calcMode="discrete" values="1;0" keyTimes="0;0.5" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
