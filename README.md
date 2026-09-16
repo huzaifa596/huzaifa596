@@ -77,29 +77,34 @@ CS undergrad at **FAST-NUCES, Lahore** — I learn by building. I've shipped a *
 
 <table width="100%">
 <tr>
-<td width="30%"><b>XEL-Sepsis</b> <sub>(research)</sub></td>
-<td width="45%">Explainable ensemble for early sepsis prediction on MIMIC-IV ICU data</td>
-<td width="25%"><sub>XGBoost · LightGBM · LSTM</sub></td>
+<td width="50%" valign="top">
+  <a href="https://github.com/huzaifa596/sepsis-mortality-rate"><img src="https://img.shields.io/badge/XEL--Sepsis-Research-818CF8?style=for-the-badge&labelColor=121626" alt="XEL-Sepsis research project" /></a><br/>
+  <sub>Explainable early-sepsis prediction on MIMIC-IV ICU data.</sub><br/>
+  <sub><code>XGBoost · LightGBM · LSTM</code></sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/huzaifa596/HireAtlas"><img src="https://img.shields.io/badge/HireAtlas-Full--stack-56D4DD?style=for-the-badge&labelColor=121626" alt="HireAtlas full-stack project" /></a><br/>
+  <sub>A hiring platform where companies post roles and candidates apply.</sub><br/>
+  <sub><code>MongoDB · Express · React · Node</code></sub>
+</td>
 </tr>
 <tr>
-<td><a href="https://github.com/huzaifa596/HireAtlas"><b>HireAtlas</b></a></td>
-<td>Full-stack hiring platform — companies post openings, candidates apply</td>
-<td><sub>MongoDB · Express · React · Node</sub></td>
+<td valign="top">
+  <a href="https://github.com/MuhammadAhmed1089/Dengue-Outbreak-Predictor"><img src="https://img.shields.io/badge/Dengue_Predictor-ML-818CF8?style=for-the-badge&labelColor=121626" alt="Dengue Case Predictor machine learning project" /></a><br/>
+  <sub>Weekly dengue-case forecasting for Pakistani cities.</sub><br/>
+  <sub><code>Python · ML</code></sub>
+</td>
+<td valign="top">
+  <a href="https://github.com/huzaifa596/assembly_game"><img src="https://img.shields.io/badge/Pop_Till_Drop-8088_Assembly-FBBF24?style=for-the-badge&labelColor=121626" alt="Pop Till Drop assembly game" /></a><br/>
+  <sub>A real-time, interrupt-driven balloon-popping arcade game.</sub><br/>
+  <sub><code>8088 Assembly</code></sub>
+</td>
 </tr>
 <tr>
-<td><a href="https://github.com/MuhammadAhmed1089/Dengue-Outbreak-Predictor"><b>Dengue Case Predictor</b></a></td>
-<td>Forecasts weekly dengue cases across Pakistani cities from outbreak history</td>
-<td><sub>Python · ML</sub></td>
-</tr>
-<tr>
-<td><a href="https://github.com/huzaifa596/assembly_game"><b>Pop Till Drop</b></a></td>
-<td>Balloon-popping arcade game in 8088 Assembly with interrupt-driven, real-time gameplay</td>
-<td><sub>8088 Assembly</sub></td>
-</tr>
-<tr>
-<td><b>Tetris</b></td>
-<td>Classic Tetris clone in pure C++ — OOP from the ground up</td>
-<td><sub>C++</sub></td>
+<td colspan="2" valign="top">
+  <img src="https://img.shields.io/badge/Tetris-C%2B%2B-A5B4FC?style=for-the-badge&labelColor=121626" alt="Tetris C++ project" /><br/>
+  <sub>A classic Tetris clone built from the ground up with object-oriented C++.</sub>
+</td>
 </tr>
 </table>
 
