@@ -187,17 +187,12 @@ I am especially happy to hear about:
   <a href="https://instagram.com/huzaifa_naseer_596"><img src="https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&labelColor=6366F1&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
 </p>
 
-<!-- Optional: animated contribution snake.
-     1) Copy .github/workflows/snake.yml into your repo (same path)
-     2) Repo → Actions tab → "Generate Snake" → Run workflow
-     3) Delete this comment and the markers below
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huzaifa596/huzaifa596/output/snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/huzaifa596/huzaifa596/output/snake.svg" alt="Contribution snake animation" />
   </picture>
 </p>
--->
 
 <br/>
 
