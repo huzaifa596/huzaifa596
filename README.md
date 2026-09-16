@@ -14,6 +14,12 @@
 
 <br/>
 
+[![FAST-NUCES Lahore](https://img.shields.io/badge/FAST--NUCES-Lahore-A5B4FC?style=flat-square&labelColor=121626)](https://lhr.nu.edu.pk/)
+![Focus Full-stack + ML](https://img.shields.io/badge/FOCUS-Full--stack_%2B_ML-56D4DD?style=flat-square&labelColor=121626)
+![Status Building in public](https://img.shields.io/badge/STATUS-Building_in_public-3FB950?style=flat-square&labelColor=121626)
+
+<br/>
+
 [![OPEN TO WORK](https://img.shields.io/badge/OPEN_TO_WORK-Internships_%7C_Freelance-6366F1?style=for-the-badge&labelColor=0D1117)](mailto:huzaifanaseer596@gmail.com)
 
 <sub>↓ Choose a section above, or start with <a href="#-cat-aboutmd">the short version</a>.</sub>
