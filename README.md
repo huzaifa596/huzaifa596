@@ -40,16 +40,25 @@
 
 CS undergrad at **FAST-NUCES, Lahore** — I learn by building. I've shipped a **hospital billing system** on the MERN stack, built responsive landing pages at BrainNet Telecom, and I'm currently a **research intern** on **XEL-Sepsis** — an explainable ensemble model (XGBoost · LightGBM · LSTM) for early sepsis prediction on MIMIC-IV ICU data. When I'm not shipping, I'm grinding **DSA in C++**.
 
-<details>
-<summary><b>▸ What I am focused on right now</b></summary>
-<br/>
-
-| Building | Exploring | Looking for |
-|---|---|---|
-| Reliable full-stack products | Explainable ML for clinical research | Internship and freelance collaborations |
-| Clean, responsive front ends | Model evaluation and interpretation | Problems with a real user impact |
-
-</details>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+  <img src="https://img.shields.io/badge/NOW_01-BUILDING-818CF8?style=flat-square&labelColor=121626" alt="Now building" /><br/><br/>
+  <b>Full-stack products</b><br/>
+  <sub>Reliable apps with clean flows, responsive interfaces, and a real reason to exist.</sub>
+</td>
+<td width="33%" valign="top">
+  <img src="https://img.shields.io/badge/NOW_02-EXPLORING-56D4DD?style=flat-square&labelColor=121626" alt="Now exploring" /><br/><br/>
+  <b>Explainable ML</b><br/>
+  <sub>Clinical research where model evaluation and interpretation are treated seriously.</sub>
+</td>
+<td width="33%" valign="top">
+  <img src="https://img.shields.io/badge/NOW_03-AVAILABLE-3FB950?style=flat-square&labelColor=121626" alt="Now available for" /><br/><br/>
+  <b>Great collaborations</b><br/>
+  <sub>Internships, freelance work, and useful problems with thoughtful people.</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
