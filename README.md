@@ -2,11 +2,21 @@
 
 <img src="assets/terminal.svg" alt="Terminal window — huzaifa@fast-nuces: ~/portfolio" />
 
+<sub>
+  <a href="#-cat-aboutmd">about</a> ·
+  <a href="#-git-log---experience">experience</a> ·
+  <a href="#-ls-projects---featured">projects</a> ·
+  <a href="#-ls-stack">stack</a> ·
+  <a href="#-ping-huzaifa">connect</a>
+</sub>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=818CF8&background=0D1117&center=true&vCenter=true&width=650&lines=%3E+Building+full-stack+apps+with+the+MERN+stack%3B%3E+Teaching+ML+models+to+explain+themselves%3B%3E+Grinding+DSA+in+C%2B%2B%2C+one+problem+at+a+time%3B%3E+Open+to+internships+%26+freelance+work)](https://git.io/typing-svg)
 
 <br/>
 
 [![OPEN TO WORK](https://img.shields.io/badge/OPEN_TO_WORK-Internships_%7C_Freelance-6366F1?style=for-the-badge&labelColor=0D1117)](mailto:huzaifanaseer596@gmail.com)
+
+<sub>↓ Choose a section above, or start with <a href="#-cat-aboutmd">the short version</a>.</sub>
 
 </div>
 
