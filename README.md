@@ -91,6 +91,19 @@ CS undergrad at **FAST-NUCES, Lahore** — I learn by building. I've shipped a *
 </tr>
 </table>
 
+<details>
+<summary><b>▸ Pick a route</b> — here for a quick look, a collaboration, or the technical details?</summary>
+<br/>
+
+| You are here to… | Best next stop |
+|---|---|
+| See product work | <a href="https://github.com/huzaifa596/HireAtlas"><b>HireAtlas</b></a> — a full-stack hiring platform |
+| Talk research or ML | Read the <a href="#-git-log---experience">research internship</a> overview, then connect below |
+| Check engineering tools | Jump to <a href="#-ls-stack">the stack</a> and GitHub activity |
+| Start a conversation | <a href="mailto:huzaifanaseer596@gmail.com">Send an email</a> or connect on <a href="https://www.linkedin.com/in/huzaifa-naseer-231728234/">LinkedIn</a> |
+
+</details>
+
 <sub>▸ more on <a href="https://huzaifaportfolio.site">huzaifaportfolio.site</a> — landing pages, templates & experiments</sub>
 
 <br/>
