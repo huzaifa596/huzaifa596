@@ -164,6 +164,22 @@ CS undergrad at **FAST-NUCES, Lahore** — I learn by building. I've shipped a *
 
 ## `$ ping huzaifa`
 
+<details>
+<summary><b>▸ <code>help --collaborate</code></b></summary>
+<br/>
+
+I am especially happy to hear about:
+
+- a full-stack product that needs a thoughtful, reliable builder;
+- an ML or data project where clear evaluation matters; or
+- an internship, freelance brief, or idea worth turning into something real.
+
+<sub>Best first message: what you are building, where you need help, and your ideal timeline.</sub>
+
+</details>
+
+<br/>
+
 <p align="center">
   <a href="https://huzaifaportfolio.site"><img src="https://img.shields.io/badge/Portfolio-huzaifaportfolio.site-0D1117?style=for-the-badge&labelColor=6366F1" alt="Portfolio" /></a>
   <a href="mailto:huzaifanaseer596@gmail.com"><img src="https://img.shields.io/badge/Email-huzaifanaseer596%40gmail.com-0D1117?style=for-the-badge&labelColor=6366F1&logo=gmail&logoColor=EA4335" alt="Email" /></a>
