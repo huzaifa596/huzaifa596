@@ -170,10 +170,10 @@ CS undergrad at **FAST-NUCES, Lahore** — I learn by building. I've shipped a *
 
 <p align="center">
   <a href="https://github.com/huzaifa596" title="GitHub stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifa596&show_icons=true&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9&icon_color=FBBF24&border_color=434A78&ring_color=818CF8&border_radius=12&include_all_commits=false&count_private=false" alt="GitHub stats" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huzaifa596&theme=github_dark" alt="GitHub stats" />
   </a>
   <a href="https://github.com/huzaifa596" title="Top languages">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa596&layout=compact&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9&border_color=434A78&border_radius=12" alt="Top languages" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifa596&theme=github_dark" alt="Top languages" />
   </a>
 </p>
 
