@@ -26,6 +26,17 @@
 
 CS undergrad at **FAST-NUCES, Lahore** — I learn by building. I've shipped a **hospital billing system** on the MERN stack, built responsive landing pages at BrainNet Telecom, and I'm currently a **research intern** on **XEL-Sepsis** — an explainable ensemble model (XGBoost · LightGBM · LSTM) for early sepsis prediction on MIMIC-IV ICU data. When I'm not shipping, I'm grinding **DSA in C++**.
 
+<details>
+<summary><b>▸ What I am focused on right now</b></summary>
+<br/>
+
+| Building | Exploring | Looking for |
+|---|---|---|
+| Reliable full-stack products | Explainable ML for clinical research | Internship and freelance collaborations |
+| Clean, responsive front ends | Model evaluation and interpretation | Problems with a real user impact |
+
+</details>
+
 <br/>
 
 ## `$ git log --experience`
