@@ -3,20 +3,26 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0D1117"/>
-      <stop offset="1" stop-color="#0A0E14"/>
+      <stop offset="1" stop-color="#090B14"/>
     </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="4%" r="78%">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0.26"/>
+      <stop offset="0.48" stop-color="#312E81" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
   <!-- window -->
-  <rect x="0.5" y="0.5" width="819" height="511" rx="12" fill="url(#bg)" stroke="#30363D" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="819" height="511" rx="12" fill="url(#bg)" stroke="#4F46E5" stroke-width="1"/>
+  <rect x="1" y="1" width="818" height="510" rx="12" fill="url(#glow)"/>
 
   <!-- title bar -->
-  <path d="M1.5 46 V13 A11.5 11.5 0 0 1 13 1.5 H807 A11.5 11.5 0 0 1 818.5 13 V46 Z" fill="#161B22"/>
-  <line x1="1.5" y1="46" x2="818.5" y2="46" stroke="#30363D" stroke-width="1"/>
+  <path d="M1.5 46 V13 A11.5 11.5 0 0 1 13 1.5 H807 A11.5 11.5 0 0 1 818.5 13 V46 Z" fill="#121626"/>
+  <line x1="1.5" y1="46" x2="818.5" y2="46" stroke="#434A78" stroke-width="1"/>
   <circle cx="26" cy="23.5" r="6" fill="#FF5F56"/>
   <circle cx="48" cy="23.5" r="6" fill="#FFBD2E"/>
   <circle cx="70" cy="23.5" r="6" fill="#27C93F"/>
-  <text x="410" y="28" text-anchor="middle" font-size="13" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">huzaifa@fast-nuces: ~/portfolio — zsh</text>
+  <text x="410" y="28" text-anchor="middle" font-size="13" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">huzaifa@fast-nuces: ~/portfolio — zsh</text>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16">
     <!-- $ whoami -->
