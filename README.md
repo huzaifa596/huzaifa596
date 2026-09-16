@@ -155,16 +155,16 @@ CS undergrad at **FAST-NUCES, Lahore** — I learn by building. I've shipped a *
 
 <p align="center">
   <a href="https://github.com/huzaifa596" title="GitHub stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifa596&show_icons=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&icon_color=FBBF24&border_color=30363D&ring_color=818CF8&include_all_commits=false&count_private=false" alt="GitHub stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifa596&show_icons=true&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9&icon_color=FBBF24&border_color=434A78&ring_color=818CF8&border_radius=12&include_all_commits=false&count_private=false" alt="GitHub stats" />
   </a>
   <a href="https://github.com/huzaifa596" title="Top languages">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa596&layout=compact&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&border_color=30363D" alt="Top languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa596&layout=compact&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9&border_color=434A78&border_radius=12" alt="Top languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://streak-stats.demolab.com" title="Streak stats">
-    <img width="70%" src="https://streak-stats.demolab.com?user=huzaifa596&background=0D1117&border=30363D&stroke=30363D&ring=818CF8&fire=FBBF24&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+    <img width="70%" src="https://streak-stats.demolab.com?user=huzaifa596&background=0D1117&border=434A78&stroke=30363D&ring=818CF8&fire=FBBF24&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A5B4FC&sideLabels=A5B4FC&dates=8B949E&border_radius=12" alt="GitHub streak" />
   </a>
 </p>
 
