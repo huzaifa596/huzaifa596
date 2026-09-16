@@ -227,10 +227,14 @@ I am especially happy to hear about:
 <br/>
 
 <p align="center">
-  <a href="https://huzaifaportfolio.site"><img src="https://img.shields.io/badge/Portfolio-huzaifaportfolio.site-0D1117?style=for-the-badge&labelColor=6366F1" alt="Portfolio" /></a>
-  <a href="mailto:huzaifanaseer596@gmail.com"><img src="https://img.shields.io/badge/Email-huzaifanaseer596%40gmail.com-0D1117?style=for-the-badge&labelColor=6366F1&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/huzaifa-naseer-231728234/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&labelColor=6366F1&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/huzaifa_naseer_596"><img src="https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&labelColor=6366F1&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <sub><b>Choose a channel:</b> email for opportunities · LinkedIn for a professional hello · portfolio for the work</sub>
+</p>
+
+<p align="center">
+  <a href="https://huzaifaportfolio.site"><img src="https://img.shields.io/badge/VIEW-Portfolio-818CF8?style=for-the-badge&labelColor=121626&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
+  <a href="mailto:huzaifanaseer596@gmail.com?subject=Let's%20build%20something"><img src="https://img.shields.io/badge/SAY_HELLO-Email-56D4DD?style=for-the-badge&labelColor=121626&logo=gmail&logoColor=white" alt="Send an email" /></a>
+  <a href="https://www.linkedin.com/in/huzaifa-naseer-231728234/"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-818CF8?style=for-the-badge&labelColor=121626&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://instagram.com/huzaifa_naseer_596"><img src="https://img.shields.io/badge/FOLLOW-Instagram-FBBF24?style=for-the-badge&labelColor=121626&logo=instagram&logoColor=white" alt="Follow on Instagram" /></a>
 </p>
 
 <p align="center">
