@@ -157,15 +157,15 @@ CS undergrad at **FAST-NUCES, Lahore** — I learn by building. I've shipped a *
   </a>
 </p>
 
-## `$ git activity --heatmap`
+## `$ git profile --overview`
 
 <p align="center">
   <a href="https://github.com/huzaifa596" title="Open GitHub contribution activity">
-    <img src="https://ghchart.rshah.org/818CF8/huzaifa596" alt="Huzaifa's GitHub contribution chart" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa596&theme=github_dark" alt="Huzaifa's GitHub profile overview" />
   </a>
 </p>
 
-<p align="center"><sub>Every square is a small step forward.</sub></p>
+<p align="center"><sub>Live contribution activity, commit rhythm, and repository highlights.</sub></p>
 
 <br/>
 
