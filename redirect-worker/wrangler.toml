@@ -1,0 +1,11 @@
+name = "huzaifa-github-redirect"
+main = "src/index.js"
+compatibility_date = "2026-09-19"
+
+[observability]
+enabled = true
+
+# Set these values as encrypted Worker secrets. Do not commit them here:
+# wrangler secret put RESEND_API_KEY
+# wrangler secret put ALERT_TO
+# wrangler secret put MAIL_FROM
