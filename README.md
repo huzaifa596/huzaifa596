@@ -31,7 +31,8 @@
 CS undergrad at **FAST-NUCES, Lahore** — I learn by building. I've shipped a **hospital billing system** on the MERN stack, built responsive landing pages at BrainNet Telecom, and I'm currently a **research intern** on **XEL-Sepsis** — an explainable ensemble model (XGBoost · LightGBM · LSTM) for early sepsis prediction on MIMIC-IV ICU data. When I'm not shipping, I'm grinding **DSA in C++**.
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
+  <strong>七転び八起き</strong><br/>
+  <sub><em>Nana korobi ya oki — Fall seven times, stand up eight.</em></sub>
 </p>
 
 <br/>
