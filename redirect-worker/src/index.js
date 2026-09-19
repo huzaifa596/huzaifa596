@@ -143,7 +143,7 @@ function consentPage(source) {
     <h1>Continue to Huzaifa's GitHub</h1>
     <p>Before continuing, you can choose to share approximate visit details with Huzaifa: country, approximate city, device category, browser, and operating system.</p>
     <p class="meta">No raw IP address or browser fingerprint is stored. Source: ${escapedSource}.</p>
-    <form method="post">
+    <form method="post" action="/github?source=${escapedSource}">
       <input type="hidden" name="consent" value="yes" />
       <button type="submit">I understand — continue to GitHub</button>
     </form>
@@ -155,7 +155,7 @@ function consentPage(source) {
     headers: {
       "Content-Type": "text/html; charset=UTF-8",
       "Cache-Control": "no-store",
-      "Content-Security-Policy": "default-src 'none'; style-src 'unsafe-inline'; form-action 'self'; base-uri 'none'",
+      "Content-Security-Policy": "default-src 'none'; style-src 'unsafe-inline'; base-uri 'none'",
       "Referrer-Policy": "no-referrer",
       "X-Content-Type-Options": "nosniff",
     },
