@@ -6,7 +6,7 @@ export default {
     const url = new URL(request.url);
     const source = cleanSource(url.searchParams.get("source"));
 
-    if (url.pathname !== "/github") {
+    if (url.pathname !== "/" && url.pathname !== "/github") {
       return new Response("Not found", { status: 404 });
     }
 
