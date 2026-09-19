@@ -11,6 +11,8 @@ After a visitor explicitly clicks **I understand — continue to GitHub**, the W
 
 The Worker does not store a raw IP address or create a browser fingerprint. City and location are approximate and may be unavailable or inaccurate when a visitor uses a VPN, proxy, or mobile network.
 
+After consent, the visitor is redirected immediately; the email alert is delivered in the background so email-provider latency cannot hold up the GitHub redirect.
+
 ## Deploy
 
 Install and authenticate Wrangler, then run these commands from this directory:
