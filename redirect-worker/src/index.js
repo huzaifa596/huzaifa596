@@ -32,7 +32,12 @@ async function continueToGitHub(request, env, source) {
   }
 
   const metadata = summarizeVisitor(request, source);
-  await sendAlert(env, metadata);
+  try {
+    await sendAlert(env, metadata);
+  } catch (error) {
+    // Never block the visitor's requested redirect because email delivery failed.
+    console.error("Visitor alert failed", error);
+  }
 
   return Response.redirect(GITHUB_URL, 302);
 }
@@ -150,6 +155,9 @@ function consentPage(source) {
     headers: {
       "Content-Type": "text/html; charset=UTF-8",
       "Cache-Control": "no-store",
+      "Content-Security-Policy": "default-src 'none'; style-src 'unsafe-inline'; form-action 'self'; base-uri 'none'",
+      "Referrer-Policy": "no-referrer",
+      "X-Content-Type-Options": "nosniff",
     },
   });
 }
