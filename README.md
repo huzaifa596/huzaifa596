@@ -211,13 +211,6 @@ I am especially happy to hear about:
   <a href="https://instagram.com/huzaifa_naseer_596"><img src="https://img.shields.io/badge/FOLLOW-Instagram-FBBF24?style=for-the-badge&labelColor=121626&logo=instagram&logoColor=white" alt="Follow on Instagram" /></a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huzaifa596/huzaifa596/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/huzaifa596/huzaifa596/output/snake.svg" alt="Contribution snake animation" />
-  </picture>
-</p>
-
 <br/>
 
 <p align="center">
