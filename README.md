@@ -214,6 +214,13 @@ I am especially happy to hear about:
 <br/>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huzaifa596/huzaifa596/gh-pages/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/huzaifa596/huzaifa596/gh-pages/snake.svg" alt="Contribution snake animation" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=huzaifa596&color=6366f1&style=flat-square&label=profile+views" alt="Profile views" />
 </p>
 
