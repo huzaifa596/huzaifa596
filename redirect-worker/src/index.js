@@ -76,7 +76,7 @@ async function sendAlert(env, visitor) {
     "No raw IP address or browser fingerprint was stored.",
   ].join("\n");
 
-  await fetch("https://api.resend.com/emails", {
+  const response = await fetch("https://api.resend.com/emails", {
     method: "POST",
     headers: {
       Authorization: `Bearer ${env.RESEND_API_KEY}`,
@@ -89,6 +89,11 @@ async function sendAlert(env, visitor) {
       text,
     }),
   });
+
+  if (!response.ok) {
+    const details = (await response.text()).slice(0, 500);
+    throw new Error(`Resend returned ${response.status}: ${details}`);
+  }
 }
 
 function cleanSource(value) {
