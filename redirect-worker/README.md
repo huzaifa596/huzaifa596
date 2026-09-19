@@ -26,6 +26,18 @@ wrangler deploy
 
 `MAIL_FROM` must be an address allowed by your Resend account, for example `Profile alerts <alerts@your-domain.com>`.
 
+## Link examples
+
+Use a separate source tag wherever you share the link:
+
+```text
+https://YOUR_WORKER.workers.dev/github?source=resume
+https://YOUR_WORKER.workers.dev/github?source=linkedin
+https://YOUR_WORKER.workers.dev/github?source=job-board
+```
+
+Keep the source labels short and non-personal. Do not put a person's name, email address, résumé ID, or other private information in the URL.
+
 After deployment, test these URLs:
 
 ```text
