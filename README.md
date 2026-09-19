@@ -12,17 +12,7 @@
 
 <br/>
 
-<a href="https://github.com/huzaifa596?tab=followers"><img src="https://img.shields.io/github/followers/huzaifa596?style=flat-square&logo=github&label=followers&color=818CF8&labelColor=121626" alt="GitHub followers" /></a>
-<a href="https://github.com/huzaifa596?tab=repositories"><img src="https://img.shields.io/badge/explore-repositories-56D4DD?style=flat-square&logo=github&logoColor=white&labelColor=121626" alt="Explore GitHub repositories" /></a>
-<a href="https://huzaifaportfolio.site"><img src="https://img.shields.io/badge/visit-portfolio-FBBF24?style=flat-square&logo=googlechrome&logoColor=white&labelColor=121626" alt="Visit portfolio" /></a>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=818CF8&background=0D1117&center=true&vCenter=true&width=650&lines=%3E+Building+full-stack+apps+with+the+MERN+stack%3B%3E+Teaching+ML+models+to+explain+themselves%3B%3E+Grinding+DSA+in+C%2B%2B%2C+one+problem+at+a+time%3B%3E+Open+to+internships+%26+freelance+work)](https://git.io/typing-svg)
-
-<br/>
-
-[![FAST-NUCES Lahore](https://img.shields.io/badge/FAST--NUCES-Lahore-A5B4FC?style=flat-square&labelColor=121626)](https://lhr.nu.edu.pk/)
-![Focus Full-stack + ML](https://img.shields.io/badge/FOCUS-Full--stack_%2B_ML-56D4DD?style=flat-square&labelColor=121626)
-![Status Building in public](https://img.shields.io/badge/STATUS-Building_in_public-3FB950?style=flat-square&labelColor=121626)
 
 <br/>
 
