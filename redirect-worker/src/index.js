@@ -2,7 +2,7 @@ const DEFAULT_SOURCE = "github-profile";
 const GITHUB_URL = "https://github.com/huzaifa596";
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     const url = new URL(request.url);
     const source = cleanSource(url.searchParams.get("source"));
 
@@ -15,7 +15,7 @@ export default {
     }
 
     if (request.method === "POST") {
-      return continueToGitHub(request, env, source);
+      return continueToGitHub(request, env, ctx, source);
     }
 
     return new Response("Method not allowed", {
@@ -25,19 +25,19 @@ export default {
   },
 };
 
-async function continueToGitHub(request, env, source) {
+async function continueToGitHub(request, env, ctx, source) {
   const form = await request.formData();
   if (form.get("consent") !== "yes") {
     return new Response("Consent is required to continue.", { status: 400 });
   }
 
   const metadata = summarizeVisitor(request, source);
-  try {
-    await sendAlert(env, metadata);
-  } catch (error) {
-    // Never block the visitor's requested redirect because email delivery failed.
-    console.error("Visitor alert failed", error);
-  }
+  // Keep the redirect fast; email delivery continues after the response is sent.
+  ctx.waitUntil(
+    sendAlert(env, metadata).catch((error) => {
+      console.error("Visitor alert failed", error);
+    }),
+  );
 
   return Response.redirect(GITHUB_URL, 302);
 }
